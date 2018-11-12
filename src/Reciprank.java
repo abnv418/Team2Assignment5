@@ -46,6 +46,9 @@ public class Reciprank {
 
         rc.rankreturn(R2);
 
+        rc.rankreturn(R3);
+
+        rc.rankreturn(R4);
 
 
 
